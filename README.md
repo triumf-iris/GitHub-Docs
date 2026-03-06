@@ -8,7 +8,7 @@ While most GitHub features can be used from the command line, it is highly recom
 Access the IRIS codes by cloning a repository [from a terminal](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=linux&tool=webui#cloning-a-repository) or using your preferred graphical interface. The main branch contains the most up-to-date versions of all codes.
 
 ## How to Contribute
-Read [CONTRIBUTING.md](https://github.com/triumf-iris/GitHub-Docs/blob/b22f544d003417758d5b140a353ca16e7a5a078a/CONTRIBUTING.md) for details.
+Read [CONTRIBUTING.md](https://github.com/triumf-iris/GitHub-Docs/tree/main?tab=contributing-ov-file) for details.
 
 ## Adding Members
 New graduate students and postdocs should create a GitHub account with a personal email address that won't expire after graduation. 
